@@ -1,5 +1,3 @@
-
-ChatGPT said:
 🛒 Mobile POS & Billing App
 A modern, high-performance, offline-first Point of Sale (POS) and Billing Application built with Flutter. Designed for seamless retail operations with fast checkout systems, barcode scanning, Bluetooth thermal printing, inventory management, and local data persistence.
 
